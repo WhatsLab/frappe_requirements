@@ -147,15 +147,16 @@
  "issingle": 0, 
  "istable": 1, 
  "max_attachments": 0, 
- "modified": "2016-04-02 04:56:28.409267", 
+ "modified": "2016-04-02 22:17:23.596195", 
  "modified_by": "Administrator", 
  "module": "Frappe Requirements", 
- "name": "DocType Requirement Triger", 
+ "name": "DocType Requirement Trigger", 
  "name_case": "", 
  "owner": "Administrator", 
  "permissions": [], 
  "read_only": 0, 
  "read_only_onload": 0, 
  "sort_field": "modified", 
- "sort_order": "DESC"
+ "sort_order": "DESC", 
+ "track_seen": 0
 }
