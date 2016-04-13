@@ -4,4 +4,4 @@ FRS helps system analyst to work side by side with developers creating a perfect
 
 #### License
 
-GPL
+LGPL
