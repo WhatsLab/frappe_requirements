@@ -1,0 +1,25 @@
+{
+ "content": null, 
+ "creation": "2016-04-13 17:36:30.734765", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2016-04-13 17:53:50.979138", 
+ "modified_by": "Administrator", 
+ "module": "Frappe Requirements", 
+ "name": "doctype-relation", 
+ "owner": "Administrator", 
+ "page_name": "DocType Relation", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }, 
+  {
+   "role": "Administrator"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "DocType Relations"
+}
