@@ -12,6 +12,7 @@ frappe.pages['doctype-relation'].on_page_load = function(wrapper) {
 
 
 
+
     var $ = go.GraphObject.make;  // for conciseness in defining templates
 
     myDiagram =
