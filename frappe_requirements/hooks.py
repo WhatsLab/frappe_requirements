@@ -16,7 +16,7 @@ app_license = "GPL"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/frappe_requirements/css/frappe_requirements.css"
-# app_include_js = "/assets/frappe_requirements/js/frappe_requirements.js"
+app_include_js = "/assets/frappe_requirements/js/smart_link.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/frappe_requirements/css/frappe_requirements.css"
