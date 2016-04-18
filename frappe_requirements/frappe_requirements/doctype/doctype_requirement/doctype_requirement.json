@@ -467,7 +467,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-04-18 15:16:53.041241", 
+ "modified": "2016-04-18 15:47:10.091137", 
  "modified_by": "Administrator", 
  "module": "Frappe Requirements", 
  "name": "DocType Requirement", 
@@ -518,7 +518,7 @@
  "read_only": 0, 
  "read_only_onload": 0, 
  "search_fields": "", 
- "sort_field": "modified", 
+ "sort_field": "creation", 
  "sort_order": "DESC", 
  "title_field": ""
 }
