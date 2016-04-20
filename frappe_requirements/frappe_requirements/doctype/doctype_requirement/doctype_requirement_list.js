@@ -1,3 +1,5 @@
 frappe.listview_settings['DocType Requirement'] = {
-	default_filters: [["DocType Requirement", "status", "!=", "Published"]]
+        add_fields: ["status", "module"],
+        default_filters: [["DocType Requirement", "status", "!=", "Published"]],
+	filters: [["status", "!=", "Published"]]
 };
